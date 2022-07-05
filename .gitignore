@@ -1,2 +1,3 @@
 tmps
-.*
+.RData
+.Rhistory
